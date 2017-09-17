@@ -1,0 +1,16 @@
+{
+  "name": "agoratest",
+  "description": "tetsing",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
